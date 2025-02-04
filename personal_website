@@ -1,14 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>My Personal Website</title>
-</head>
-<body>
-    <h1>Welcome to My Website</h1>
-    <ul>
-        <li><a href="about_me/about.html">About Me</a></li>
-        <li><a href="courses/index.html">My Courses</a></li>
-    </ul>
-</body>
-</html>
+<!DOCTYPE html >
+<html >
+    <head >
+        <title >Web Tech </ title >
+    </ head >
+    <body >
+        <h1 >Hello Web Tech </h1 >
+        <p> Something about Web technologies ?</p>
+    </ body >
+</ html >
